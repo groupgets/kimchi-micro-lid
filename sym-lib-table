@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name kimchi_ulid)(type Legacy)(uri ${KIPRJMOD}/kimchi_ulid.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "kimchi_ulid")(type "KiCad")(uri "${KIPRJMOD}/ulid_lib.kicad_sym")(options "")(descr ""))
 )
